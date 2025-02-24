@@ -52,3 +52,5 @@ Suggested model tuning using GridSearchCV and feature importance analysis for be
 
 Proposed data-driven maintenance strategies to reduce machine downtime, improve productivity, and achieve cost savings.
 Focused on long-term sustainability and machine optimization through predictive maintenance and proactive operational adjustments.
+
+#python #Jupyternotebook #tatasteel #MachineFailurePrediction
